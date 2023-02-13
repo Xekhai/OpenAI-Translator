@@ -6,7 +6,7 @@ This is a simple API that uses OpenAI's API to translate English text to other l
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/Xekhai/openai-translator.git`
+1. Clone the repository: `git clone https://github.com/Xekhai/OpenAI-Translator.git`
 
 2. Install the required dependencies: `npm install`
 
